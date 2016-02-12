@@ -7,5 +7,5 @@ import {RandomColorDirective} from "./random-color-directive";
     directives: [RandomColorDirective]
 })
 export class AppComponent {
-    private title:string = "Angular 2.0 is in the house..!!!";
+    private title:string = "Angular 2.0 is in the house...";
 }
